@@ -1,0 +1,1 @@
+# PlanetScope-QGIS-api
